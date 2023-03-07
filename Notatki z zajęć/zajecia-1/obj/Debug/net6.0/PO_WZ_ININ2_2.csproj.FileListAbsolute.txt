@@ -1,0 +1,15 @@
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\bin\Debug\net6.0\PO_WZ_ININ2_2.exe
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\bin\Debug\net6.0\PO_WZ_ININ2_2.deps.json
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\bin\Debug\net6.0\PO_WZ_ININ2_2.runtimeconfig.json
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\bin\Debug\net6.0\PO_WZ_ININ2_2.dll
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\bin\Debug\net6.0\PO_WZ_ININ2_2.pdb
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\obj\Debug\net6.0\PO_WZ_ININ2_2.csproj.AssemblyReference.cache
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\obj\Debug\net6.0\PO_WZ_ININ2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\obj\Debug\net6.0\PO_WZ_ININ2_2.AssemblyInfoInputs.cache
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\obj\Debug\net6.0\PO_WZ_ININ2_2.AssemblyInfo.cs
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\obj\Debug\net6.0\PO_WZ_ININ2_2.csproj.CoreCompileInputs.cache
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\obj\Debug\net6.0\PO_WZ_ININ2_2.dll
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\obj\Debug\net6.0\refint\PO_WZ_ININ2_2.dll
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\obj\Debug\net6.0\PO_WZ_ININ2_2.pdb
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\obj\Debug\net6.0\PO_WZ_ININ2_2.genruntimeconfig.cache
+C:\Users\donee\source\repos\PO_WZ_ININ2_2\obj\Debug\net6.0\ref\PO_WZ_ININ2_2.dll
